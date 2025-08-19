@@ -1,0 +1,52 @@
+{
+  "timestamp": 1755643823.388253,
+  "tests_performed": [],
+  "overall_status": "optimization_successful",
+  "performance_comparison": {
+    "old_calculator": {
+      "processing_time_seconds": 0.2397902011871338,
+      "properties_per_second": 417.0312193948216,
+      "average_time_per_property_ms": 2.397902011871338
+    },
+    "new_calculator": {
+      "processing_time_seconds": 0.06870388984680176,
+      "properties_per_second": 1455.521662936165,
+      "average_time_per_property_ms": 0.6870388984680176
+    },
+    "improvement_metrics": {
+      "time_reduction_percent": 71.34833304002076,
+      "throughput_increase_percent": 249.01983238769452,
+      "speedup_factor": 3.4901983238769456
+    }
+  },
+  "functionality_validation": {
+    "total_tests": 8,
+    "matching_results": 8,
+    "discrepancies": [],
+    "status": "excellent"
+  },
+  "error_handling_tests": {
+    "total_error_tests": 4,
+    "graceful_handling_count": 1,
+    "error_details": [
+      {
+        "test_case": "None coordinates",
+        "exception_type": "<class 'toc_tier_engine.TOCTierEngineError'>",
+        "error_message": "Calculation failed: unsupported format string passed to NoneType.__format__"
+      }
+    ]
+  },
+  "system_metrics_validation": {
+    "metrics_available": [
+      "uptime_seconds",
+      "uptime_hours",
+      "total_properties_processed",
+      "average_throughput_per_hour",
+      "engine_metrics",
+      "system_health"
+    ],
+    "health_check_working": true,
+    "performance_tracking": true,
+    "validation_system_working": true
+  }
+}
