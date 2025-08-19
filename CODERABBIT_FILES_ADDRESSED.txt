@@ -1,0 +1,36 @@
+# CodeRabbit Feedback Addressed - File Changes
+
+## Core TOC System Files (Optimized)
+- toc_config.py - Configuration management module
+- toc_distance_calculator.py - Performance-optimized distance calculations  
+- toc_tier_engine.py - Refactored core tier logic
+- toc_tier_calculator_optimized.py - Production-ready interface
+- toc_tier_calculator_fixed.py - Original implementation (preserved)
+
+## Validation & Testing Suite
+- validate_optimized_toc.py - Comprehensive optimization validation
+- test_investment_grade_scoring.py - 70+ point scoring validation
+- test_file_output_compatibility.py - File output compatibility tests
+- test_coderabbit_edge_cases.py - Edge case and robustness testing
+- final_validation_success_report.py - Final validation report generator
+
+## Documentation & Reports
+- CODERABBIT_OPTIMIZATION_SUMMARY.md - Complete optimization documentation
+- FINAL_CODERABBIT_VALIDATION_SUMMARY.md - Comprehensive validation results
+- TOC_VALIDATION_SUCCESS_REPORT.json - System validation data
+- toc_optimization_validation_report.json - Performance metrics
+
+## Original TOC Implementation Files (Week 1)
+- toc_tier_calculator.py - Original TOC calculator
+- dealgenie_scoring_engine_v4_3_toc.py - Enhanced scoring with TOC
+- dealgenie_calibrated_scoring_engine.py - Calibrated scoring engine
+- demonstrate_70_plus_scoring.py - Investment-grade proof
+- validate_toc_integration.py - Original validation
+- test_toc_enhanced_scoring.py - TOC testing suite
+- final_toc_validation_test.py - Comprehensive validation
+- test_dealgenie_diverse_sample.py - 1000-property sample testing
+
+## Supporting Files
+- TOC_INTEGRATION_WEEK1_SUMMARY.md - Week 1 summary
+- FINAL_TOC_VALIDATION_RESOLUTION.md - Resolution documentation
+- DEALGENIE_V4.3_COMPREHENSIVE_TEST_REPORT.md - Test report
