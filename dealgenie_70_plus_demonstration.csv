@@ -1,0 +1,6 @@
+apn,address,base_zoning,lot_size_sqft,building_size_sqft,latitude,longitude,toc_toc_tier,development_score,score_breakdown,investment_tier
+DEMO_001,Hollywood & Highland Premium Site,C4,25000,3000,34.102403,-118.338974,4,100.7,"{""zoning_score"": 150.0, ""lot_size_score"": 95.0, ""toc_bonus"": 72.0, ""financial_score"": 25.0, ""risk_penalty"": 0.0}",A+
+DEMO_002,Union Station Mixed-Use Development,R5,35000,2000,34.056207,-118.234468,4,104.95,"{""zoning_score"": 140.0, ""lot_size_score"": 150, ""toc_bonus"": 72.0, ""financial_score"": 25.0, ""risk_penalty"": 0.0}",A+
+DEMO_003,Large Assembly Near Metro,R4,45000,4000,34.048653,-118.259109,4,92.95,"{""zoning_score"": 110.0, ""lot_size_score"": 150, ""toc_bonus"": 72.0, ""financial_score"": 25.0, ""risk_penalty"": 0.0}",A+
+DEMO_004,Commercial Transit Zone,C2,15000,1500,34.05,-118.25,3,81.63,"{""zoning_score"": 130.0, ""lot_size_score"": 80.0, ""toc_bonus"": 46.8, ""financial_score"": 25.0, ""risk_penalty"": 0.0}",A
+DEMO_005,Medium Density TOC Site,R3,10000,2000,34.04,-118.26,2,54.85,"{""zoning_score"": 85.0, ""lot_size_score"": 70.0, ""toc_bonus"": 26.0, ""financial_score"": 25.0, ""risk_penalty"": 0.0}",C

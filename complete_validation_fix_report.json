@@ -1,0 +1,179 @@
+{
+  "fix_status": "MAJOR_ISSUES",
+  "core_test_results": {
+    "validation_results": [
+      {
+        "test_name": "6801 Hollywood Blvd (Hollywood/Highland)",
+        "coordinates": "(34.102403, -118.338974)",
+        "expected_tier": 4,
+        "calculated_tier": 4,
+        "expected_station": "Hollywood/Highland",
+        "calculated_station": "Hollywood/Highland",
+        "distance_feet": 0.0,
+        "tier_accurate": true,
+        "station_accurate": true,
+        "overall_accurate": true
+      },
+      {
+        "test_name": "800 N Alameda St (Union Station area)",
+        "coordinates": "(34.056207, -118.234468)",
+        "expected_tier": 4,
+        "calculated_tier": 4,
+        "expected_station": "Union Station",
+        "calculated_station": "Union Station",
+        "distance_feet": 0.0,
+        "tier_accurate": true,
+        "station_accurate": true,
+        "overall_accurate": true
+      },
+      {
+        "test_name": "1201 S Hope St (Downtown)",
+        "coordinates": "(34.048653, -118.259109)",
+        "expected_tier": 4,
+        "calculated_tier": 4,
+        "expected_station": "7th St/Metro Center",
+        "calculated_station": "7th St/Metro Center",
+        "distance_feet": 0.0,
+        "tier_accurate": true,
+        "station_accurate": true,
+        "overall_accurate": true
+      },
+      {
+        "test_name": "1500 S Fairfax Ave (Mid-City)",
+        "coordinates": "(34.045000, -118.360000)",
+        "expected_tier": 2,
+        "calculated_tier": 0,
+        "expected_station": "Expo/La Cienega",
+        "calculated_station": "Expo/La Cienega",
+        "distance_feet": 6274.0,
+        "tier_accurate": false,
+        "station_accurate": true,
+        "overall_accurate": false
+      },
+      {
+        "test_name": "8500 Sunset Blvd (West Hollywood)",
+        "coordinates": "(34.090000, -118.380000)",
+        "expected_tier": 0,
+        "calculated_tier": 0,
+        "expected_station": "Hollywood/Highland",
+        "calculated_station": "Hollywood/Highland",
+        "distance_feet": 13194.0,
+        "tier_accurate": true,
+        "station_accurate": true,
+        "overall_accurate": true
+      },
+      {
+        "test_name": "3rd St & Fairfax (Central LA)",
+        "coordinates": "(34.073000, -118.361000)",
+        "expected_tier": 3,
+        "calculated_tier": 0,
+        "expected_station": "Wilshire/Western",
+        "calculated_station": "Hollywood/Highland",
+        "distance_feet": 12623.0,
+        "tier_accurate": false,
+        "station_accurate": false,
+        "overall_accurate": false
+      },
+      {
+        "test_name": "1600 N Vermont Ave (Los Feliz)",
+        "coordinates": "(34.105000, -118.291000)",
+        "expected_tier": 2,
+        "calculated_tier": 0,
+        "expected_station": "Vermont/Santa Monica",
+        "calculated_station": "Hollywood/Western",
+        "distance_feet": 5707.0,
+        "tier_accurate": false,
+        "station_accurate": false,
+        "overall_accurate": false
+      },
+      {
+        "test_name": "11000 Wilshire Blvd (West LA)",
+        "coordinates": "(34.058000, -118.440000)",
+        "expected_tier": 0,
+        "calculated_tier": 0,
+        "expected_station": "Expo/Bundy",
+        "calculated_station": "Expo/Bundy",
+        "distance_feet": 10170.0,
+        "tier_accurate": true,
+        "station_accurate": true,
+        "overall_accurate": true
+      },
+      {
+        "test_name": "5600 W Pico Blvd (Mid-City)",
+        "coordinates": "(34.047000, -118.350000)",
+        "expected_tier": 3,
+        "calculated_tier": 0,
+        "expected_station": "Expo/Crenshaw",
+        "calculated_station": "Expo/La Brea",
+        "distance_feet": 7940.0,
+        "tier_accurate": false,
+        "station_accurate": true,
+        "overall_accurate": false
+      },
+      {
+        "test_name": "4400 Sunset Blvd (Silver Lake)",
+        "coordinates": "(34.087000, -118.271000)",
+        "expected_tier": 2,
+        "calculated_tier": 0,
+        "expected_station": "Vermont/Santa Monica",
+        "calculated_station": "Westlake/MacArthur Park",
+        "distance_feet": 10665.0,
+        "tier_accurate": false,
+        "station_accurate": false,
+        "overall_accurate": false
+      }
+    ],
+    "accuracy_rate": 0.5,
+    "status": "\u274c TOC Calculator has MAJOR ISSUES - Needs debugging",
+    "accurate_count": 5,
+    "total_tests": 10
+  },
+  "edge_case_results": [
+    {
+      "test_name": "750-foot boundary test",
+      "coordinates": "(34.104463, -118.338974)",
+      "expected_tier": 3,
+      "calculated_tier": 3,
+      "distance_feet": 752.0,
+      "nearest_station": "Hollywood/Highland",
+      "exact_match": true,
+      "reasonable_match": true,
+      "status": "\u2705 EXACT"
+    },
+    {
+      "test_name": "1500-foot boundary test",
+      "coordinates": "(34.106524, -118.338974)",
+      "expected_tier": 2,
+      "calculated_tier": 2,
+      "distance_feet": 1503.0,
+      "nearest_station": "Hollywood/Highland",
+      "exact_match": true,
+      "reasonable_match": true,
+      "status": "\u2705 EXACT"
+    },
+    {
+      "test_name": "Half-mile boundary test",
+      "coordinates": "(34.109656, -118.338974)",
+      "expected_tier": 0,
+      "calculated_tier": 0,
+      "distance_feet": 2646.0,
+      "nearest_station": "Hollywood/Highland",
+      "exact_match": true,
+      "reasonable_match": true,
+      "status": "\u2705 EXACT"
+    }
+  ],
+  "failure_analysis": {
+    "zero_distances": 3,
+    "missing_stations": 0,
+    "coordinate_issues": 4,
+    "diagnosis": "\u274c COORDINATE CALCULATION ERROR - Distance formula failing"
+  },
+  "recommendations": [
+    "\u274c Major issues with TOC calculation system",
+    "\ud83d\udd27 Debug Haversine distance formula implementation",
+    "\ud83d\udccd Verify Metro station database completeness",
+    "\ud83d\ude87 Test individual station calculations manually",
+    "\ud83d\udcca Add comprehensive unit tests for each component"
+  ]
+}

@@ -1,0 +1,1278 @@
+[
+  {
+    "assembly_potential": "High",
+    "primary_property_id": 689,
+    "primary_address": "9432 S BELLANCA AVE",
+    "property_count": 2,
+    "total_lot_size_sqft": 77887,
+    "avg_assembly_score": 67.83,
+    "total_assessed_value": 3002340,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Westchester - Playa del Rey",
+    "nearby_properties": [
+      {
+        "property_id": 725,
+        "address": "9900 S BELLANCA AVE",
+        "distance_miles": 0.1,
+        "score": 63.51
+      }
+    ]
+  },
+  {
+    "assembly_potential": "High",
+    "primary_property_id": 121,
+    "primary_address": "9786 W PICO BLVD",
+    "property_count": 8,
+    "total_lot_size_sqft": 65491,
+    "avg_assembly_score": 58.83,
+    "total_assessed_value": 64293830,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "West Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 136,
+        "address": "9730 W PICO BLVD",
+        "distance_miles": 0.1,
+        "score": 57.74
+      },
+      {
+        "property_id": 137,
+        "address": "9728 W PICO BLVD",
+        "distance_miles": 0.1,
+        "score": 58.23
+      },
+      {
+        "property_id": 138,
+        "address": "9724 W PICO BLVD",
+        "distance_miles": 0.1,
+        "score": 58.5
+      },
+      {
+        "property_id": 139,
+        "address": "9718 W PICO BLVD",
+        "distance_miles": 0.1,
+        "score": 58.73
+      },
+      {
+        "property_id": 140,
+        "address": "9706 W PICO BLVD",
+        "distance_miles": 0.1,
+        "score": 58.92
+      }
+    ]
+  },
+  {
+    "assembly_potential": "High",
+    "primary_property_id": 997,
+    "primary_address": "5958 N CORBIN AVE",
+    "property_count": 2,
+    "total_lot_size_sqft": 48235,
+    "avg_assembly_score": 57.35,
+    "total_assessed_value": 1252736,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Encino - Tarzana",
+    "nearby_properties": [
+      {
+        "property_id": 799,
+        "address": "6034 N MELVIN AVE",
+        "distance_miles": 0.1,
+        "score": 57.0
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 815,
+    "primary_address": "2635 1-4 E CHELSEA ST",
+    "property_count": 3,
+    "total_lot_size_sqft": 16239,
+    "avg_assembly_score": 59.94,
+    "total_assessed_value": 846235,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Northeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 685,
+        "address": "539 1/2 S BREED ST",
+        "distance_miles": 0.1,
+        "score": 61.57
+      },
+      {
+        "property_id": 1095,
+        "address": "340 N CHICAGO ST",
+        "distance_miles": 0.1,
+        "score": 55.88
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 763,
+    "primary_address": "5501 W SAN VICENTE BLVD",
+    "property_count": 2,
+    "total_lot_size_sqft": 16421,
+    "avg_assembly_score": 55.0,
+    "total_assessed_value": 3714457,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Wilshire",
+    "nearby_properties": [
+      {
+        "property_id": 530,
+        "address": "1103 1/2 S BRONSON AVE",
+        "distance_miles": 0.1,
+        "score": 54.99
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 881,
+    "primary_address": "2831 S VINEYARD AVE",
+    "property_count": 4,
+    "total_lot_size_sqft": 22754,
+    "avg_assembly_score": 54.09,
+    "total_assessed_value": 2566415,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "West Adams - Baldwin Hills - Leimert",
+    "nearby_properties": [
+      {
+        "property_id": 694,
+        "address": "2954 S PALM GROVE AVE",
+        "distance_miles": 0.1,
+        "score": 53.66
+      },
+      {
+        "property_id": 825,
+        "address": "2841 1/2 S PALM GROVE AVE",
+        "distance_miles": 0.1,
+        "score": 52.95
+      },
+      {
+        "property_id": 850,
+        "address": "2839 S POTOMAC AVE",
+        "distance_miles": 0.1,
+        "score": 54.46
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 671,
+    "primary_address": "339 W 77TH ST",
+    "property_count": 6,
+    "total_lot_size_sqft": 32190,
+    "avg_assembly_score": 52.97,
+    "total_assessed_value": 1835109,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Southeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 510,
+        "address": "219 E 69TH ST",
+        "distance_miles": 0.1,
+        "score": 52.93
+      },
+      {
+        "property_id": 518,
+        "address": "404 W 102ND ST",
+        "distance_miles": 0.1,
+        "score": 52.9
+      },
+      {
+        "property_id": 976,
+        "address": "158 W 61ST ST",
+        "distance_miles": 0.1,
+        "score": 52.55
+      },
+      {
+        "property_id": 1017,
+        "address": "338 E 71ST ST",
+        "distance_miles": 0.1,
+        "score": 51.14
+      },
+      {
+        "property_id": 1087,
+        "address": "133 E 101ST ST",
+        "distance_miles": 0.1,
+        "score": 53.19
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 1062,
+    "primary_address": "723 E 27TH ST",
+    "property_count": 4,
+    "total_lot_size_sqft": 22194,
+    "avg_assembly_score": 52.89,
+    "total_assessed_value": 1925641,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Southeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 521,
+        "address": "1243 E 57TH ST",
+        "distance_miles": 0.1,
+        "score": 52.59
+      },
+      {
+        "property_id": 915,
+        "address": "1275 1/2 E 57TH ST",
+        "distance_miles": 0.1,
+        "score": 52.59
+      },
+      {
+        "property_id": 916,
+        "address": "818 E 42ND ST",
+        "distance_miles": 0.1,
+        "score": 52.76
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 894,
+    "primary_address": "15000 W LEADWELL ST",
+    "property_count": 4,
+    "total_lot_size_sqft": 28719,
+    "avg_assembly_score": 52.18,
+    "total_assessed_value": 1128942,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Van Nuys - North Sherman Oaks",
+    "nearby_properties": [
+      {
+        "property_id": 552,
+        "address": "7012 N CANTALOUPE AVE",
+        "distance_miles": 0.1,
+        "score": 51.67
+      },
+      {
+        "property_id": 806,
+        "address": "6642 N COSTELLO AVE",
+        "distance_miles": 0.1,
+        "score": 52.67
+      },
+      {
+        "property_id": 987,
+        "address": "7343 N TYRONE AVE",
+        "distance_miles": 0.1,
+        "score": 50.37
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 867,
+    "primary_address": "6806 N CHIMINEAS AVE",
+    "property_count": 3,
+    "total_lot_size_sqft": 19656,
+    "avg_assembly_score": 51.9,
+    "total_assessed_value": 922370,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Reseda - West Van Nuys",
+    "nearby_properties": [
+      {
+        "property_id": 706,
+        "address": "19143 W CALVERT ST",
+        "distance_miles": 0.1,
+        "score": 52.04
+      },
+      {
+        "property_id": 877,
+        "address": "6921 N LINDLEY AVE",
+        "distance_miles": 0.1,
+        "score": 51.39
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 852,
+    "primary_address": "4118 N VANETTA PL",
+    "property_count": 3,
+    "total_lot_size_sqft": 18934,
+    "avg_assembly_score": 51.61,
+    "total_assessed_value": 2396782,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass",
+    "nearby_properties": [
+      {
+        "property_id": 550,
+        "address": "4050 N WILKINSON AVE",
+        "distance_miles": 0.1,
+        "score": 51.89
+      },
+      {
+        "property_id": 710,
+        "address": "4457 N BELLINGHAM AVE",
+        "distance_miles": 0.1,
+        "score": 50.95
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 913,
+    "primary_address": "5202 N TOWNSEND AVE",
+    "property_count": 3,
+    "total_lot_size_sqft": 18916,
+    "avg_assembly_score": 51.57,
+    "total_assessed_value": 320495,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Northeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 739,
+        "address": "1866 W OAK TREE DR",
+        "distance_miles": 0.1,
+        "score": 51.07
+      },
+      {
+        "property_id": 781,
+        "address": "1900 W OAK TREE DR",
+        "distance_miles": 0.1,
+        "score": 51.26
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 509,
+    "primary_address": "5705 N MATILIJA AVE",
+    "property_count": 5,
+    "total_lot_size_sqft": 36200,
+    "avg_assembly_score": 51.1,
+    "total_assessed_value": 1986365,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Van Nuys - North Sherman Oaks",
+    "nearby_properties": [
+      {
+        "property_id": 602,
+        "address": "6646 N FULTON AVE",
+        "distance_miles": 0.1,
+        "score": 46.17
+      },
+      {
+        "property_id": 747,
+        "address": "5649 N GREENBUSH AVE",
+        "distance_miles": 0.1,
+        "score": 50.75
+      },
+      {
+        "property_id": 841,
+        "address": "6328 N COSTELLO AVE",
+        "distance_miles": 0.1,
+        "score": 52.66
+      },
+      {
+        "property_id": 1010,
+        "address": "14128 W HAMLIN ST",
+        "distance_miles": 0.1,
+        "score": 52.71
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 711,
+    "primary_address": "11626 W STRATHERN ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 19232,
+    "avg_assembly_score": 50.59,
+    "total_assessed_value": 1182607,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Sun Valley - La Tuna Canyon",
+    "nearby_properties": [
+      {
+        "property_id": 568,
+        "address": "6915 N LONGRIDGE AVE",
+        "distance_miles": 0.1,
+        "score": 49.1
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 919,
+    "primary_address": "10071 N LAUREL CANYON BLVD",
+    "property_count": 8,
+    "total_lot_size_sqft": 54698,
+    "avg_assembly_score": 50.56,
+    "total_assessed_value": 1649484,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Arleta - Pacoima",
+    "nearby_properties": [
+      {
+        "property_id": 589,
+        "address": "14040 W PAXTON ST",
+        "distance_miles": 0.1,
+        "score": 51.55
+      },
+      {
+        "property_id": 632,
+        "address": "13403 W CORNELIUS ST",
+        "distance_miles": 0.1,
+        "score": 50.59
+      },
+      {
+        "property_id": 676,
+        "address": "8818 N VARNA AVE",
+        "distance_miles": 0.1,
+        "score": 45.25
+      },
+      {
+        "property_id": 716,
+        "address": "13659 W FILMORE ST",
+        "distance_miles": 0.1,
+        "score": 51.94
+      },
+      {
+        "property_id": 857,
+        "address": "10651 N TAMARACK AVE",
+        "distance_miles": 0.1,
+        "score": 52.33
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 494,
+    "primary_address": "3845 W MARTIN LUTHER KING, JR BLVD",
+    "property_count": 3,
+    "total_lot_size_sqft": 24221,
+    "avg_assembly_score": 50.04,
+    "total_assessed_value": 937479,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "West Adams - Baldwin Hills - Leimert",
+    "nearby_properties": [
+      {
+        "property_id": 498,
+        "address": "3940 S OLMSTED AVE",
+        "distance_miles": 0.1,
+        "score": 51.15
+      },
+      {
+        "property_id": 587,
+        "address": "4320 W DON FELIPE DR",
+        "distance_miles": 0.1,
+        "score": 47.74
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 488,
+    "primary_address": "1228 N CARY AVE",
+    "property_count": 8,
+    "total_lot_size_sqft": 45637,
+    "avg_assembly_score": 49.84,
+    "total_assessed_value": 2181839,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Wilmington - Harbor City",
+    "nearby_properties": [
+      {
+        "property_id": 541,
+        "address": "1060 N MCFARLAND AVE",
+        "distance_miles": 0.1,
+        "score": 50.42
+      },
+      {
+        "property_id": 630,
+        "address": "1663 N BANNING BLVD",
+        "distance_miles": 0.1,
+        "score": 49.54
+      },
+      {
+        "property_id": 642,
+        "address": "1229 N FRIES AVE",
+        "distance_miles": 0.1,
+        "score": 48.53
+      },
+      {
+        "property_id": 678,
+        "address": "1131 W ROBIDOUX ST",
+        "distance_miles": 0.1,
+        "score": 50.07
+      },
+      {
+        "property_id": 753,
+        "address": "1110 E CRUCES ST",
+        "distance_miles": 0.1,
+        "score": 49.72
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 682,
+    "primary_address": "13868 W HUBBARD ST",
+    "property_count": 3,
+    "total_lot_size_sqft": 20872,
+    "avg_assembly_score": 49.65,
+    "total_assessed_value": 871583,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Sylmar",
+    "nearby_properties": [
+      {
+        "property_id": 571,
+        "address": "14260 W ASTORIA ST",
+        "distance_miles": 0.1,
+        "score": 45.27
+      },
+      {
+        "property_id": 882,
+        "address": "12919 N DRONFIELD AVE",
+        "distance_miles": 0.1,
+        "score": 51.82
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 1088,
+    "primary_address": "4316 W 60TH ST",
+    "property_count": 3,
+    "total_lot_size_sqft": 16753,
+    "avg_assembly_score": 49.55,
+    "total_assessed_value": 1001792,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "West Adams - Baldwin Hills - Leimert",
+    "nearby_properties": [
+      {
+        "property_id": 901,
+        "address": "6730 S 7TH AVE",
+        "distance_miles": 0.1,
+        "score": 48.41
+      },
+      {
+        "property_id": 928,
+        "address": "3137 W 59TH PL",
+        "distance_miles": 0.1,
+        "score": 49.72
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 546,
+    "primary_address": "7644 N GREG AVE",
+    "property_count": 3,
+    "total_lot_size_sqft": 21447,
+    "avg_assembly_score": 49.49,
+    "total_assessed_value": 847827,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Sun Valley - La Tuna Canyon",
+    "nearby_properties": [
+      {
+        "property_id": 583,
+        "address": "8430 N BRADLEY AVE",
+        "distance_miles": 0.1,
+        "score": 48.41
+      },
+      {
+        "property_id": 614,
+        "address": "11127 W CANTARA ST",
+        "distance_miles": 0.1,
+        "score": 48.68
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 754,
+    "primary_address": "6347 W NANCY ST",
+    "property_count": 3,
+    "total_lot_size_sqft": 21048,
+    "avg_assembly_score": 49.45,
+    "total_assessed_value": 2076876,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Westchester - Playa del Rey",
+    "nearby_properties": [
+      {
+        "property_id": 508,
+        "address": "5812 W 75TH ST",
+        "distance_miles": 0.1,
+        "score": 45.63
+      },
+      {
+        "property_id": 961,
+        "address": "7525 S MIDFIELD AVE",
+        "distance_miles": 0.1,
+        "score": 50.73
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 911,
+    "primary_address": "605 N CHEVIOTDALE PL",
+    "property_count": 6,
+    "total_lot_size_sqft": 34916,
+    "avg_assembly_score": 48.63,
+    "total_assessed_value": 3011213,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Northeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 500,
+        "address": "929 N ADELANTE AVE",
+        "distance_miles": 0.1,
+        "score": 45.24
+      },
+      {
+        "property_id": 577,
+        "address": "521 N NEVA PL",
+        "distance_miles": 0.1,
+        "score": 49.49
+      },
+      {
+        "property_id": 674,
+        "address": "6220 S ARROYO GLEN ST",
+        "distance_miles": 0.1,
+        "score": 49.3
+      },
+      {
+        "property_id": 696,
+        "address": "6125 E OUTLOOK AVE",
+        "distance_miles": 0.1,
+        "score": 49.5
+      },
+      {
+        "property_id": 1042,
+        "address": "6026 E TIPTON WAY",
+        "distance_miles": 0.1,
+        "score": 45.73
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 905,
+    "primary_address": "932 S WELLESLEY AVE",
+    "property_count": 2,
+    "total_lot_size_sqft": 15490,
+    "avg_assembly_score": 48.54,
+    "total_assessed_value": 1496205,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Brentwood - Pacific Palisades",
+    "nearby_properties": [
+      {
+        "property_id": 548,
+        "address": "108 S GLENROY AVE",
+        "distance_miles": 0.1,
+        "score": 46.75
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 1092,
+    "primary_address": "7527 N LENA AVE",
+    "property_count": 2,
+    "total_lot_size_sqft": 15059,
+    "avg_assembly_score": 48.54,
+    "total_assessed_value": 611087,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Canoga Park - Winnetka - Woodland Hills - West Hills",
+    "nearby_properties": [
+      {
+        "property_id": 544,
+        "address": "23939 W KITTRIDGE ST",
+        "distance_miles": 0.1,
+        "score": 45.02
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 982,
+    "primary_address": "2712 1/2 S LA SALLE AVE",
+    "property_count": 3,
+    "total_lot_size_sqft": 16851,
+    "avg_assembly_score": 48.47,
+    "total_assessed_value": 1506138,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "South Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 609,
+        "address": "2245 W 30TH ST",
+        "distance_miles": 0.1,
+        "score": 47.88
+      },
+      {
+        "property_id": 851,
+        "address": "3722 S GRAMERCY PL",
+        "distance_miles": 0.1,
+        "score": 46.82
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 511,
+    "primary_address": "1172 N LINDA FLORA DR",
+    "property_count": 2,
+    "total_lot_size_sqft": 85473,
+    "avg_assembly_score": 48.05,
+    "total_assessed_value": 7326310,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Bel Air - Beverly Crest",
+    "nearby_properties": [
+      {
+        "property_id": 788,
+        "address": "33 N OAKMONT DR",
+        "distance_miles": 0.1,
+        "score": 48.05
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 644,
+    "primary_address": "3526 N MOUND VIEW AVE",
+    "property_count": 2,
+    "total_lot_size_sqft": 62467,
+    "avg_assembly_score": 47.82,
+    "total_assessed_value": 2909147,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass",
+    "nearby_properties": [
+      {
+        "property_id": 593,
+        "address": "11285 W LAURIE DR",
+        "distance_miles": 0.1,
+        "score": 46.9
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 923,
+    "primary_address": "1137 W VIA SEBASTIAN",
+    "property_count": 2,
+    "total_lot_size_sqft": 20386,
+    "avg_assembly_score": 47.7,
+    "total_assessed_value": 1391454,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "San Pedro",
+    "nearby_properties": [
+      {
+        "property_id": 824,
+        "address": "1131 W VIA SEBASTIAN",
+        "distance_miles": 0.1,
+        "score": 47.52
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 860,
+    "primary_address": "555 W SANTA CRUZ ST",
+    "property_count": 4,
+    "total_lot_size_sqft": 20802,
+    "avg_assembly_score": 46.15,
+    "total_assessed_value": 1299104,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "San Pedro",
+    "nearby_properties": [
+      {
+        "property_id": 522,
+        "address": "1217 W 22ND ST",
+        "distance_miles": 0.1,
+        "score": 46.5
+      },
+      {
+        "property_id": 563,
+        "address": "1158 W 22ND ST",
+        "distance_miles": 0.1,
+        "score": 46.0
+      },
+      {
+        "property_id": 673,
+        "address": "424 W 18TH ST",
+        "distance_miles": 0.1,
+        "score": 45.4
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 617,
+    "primary_address": "7001 N DARNOCH WAY",
+    "property_count": 2,
+    "total_lot_size_sqft": 27658,
+    "avg_assembly_score": 45.86,
+    "total_assessed_value": 1231705,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Canoga Park - Winnetka - Woodland Hills - West Hills",
+    "nearby_properties": [
+      {
+        "property_id": 992,
+        "address": "7155 N DARNOCH WAY",
+        "distance_miles": 0.1,
+        "score": 45.06
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 847,
+    "primary_address": "12206 N CREST AVE",
+    "property_count": 3,
+    "total_lot_size_sqft": 33672,
+    "avg_assembly_score": 45.37,
+    "total_assessed_value": 963369,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Sylmar",
+    "nearby_properties": [
+      {
+        "property_id": 765,
+        "address": "11474 N PRAGER AVE",
+        "distance_miles": 0.1,
+        "score": 45.02
+      },
+      {
+        "property_id": 1084,
+        "address": "11428 N FENTON AVE",
+        "distance_miles": 0.1,
+        "score": 45.43
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Medium",
+    "primary_property_id": 612,
+    "primary_address": "18735 W LEMARSH ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 15802,
+    "avg_assembly_score": 45.35,
+    "total_assessed_value": 1391214,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Northridge",
+    "nearby_properties": [
+      {
+        "property_id": 890,
+        "address": "9425 N RHEA AVE",
+        "distance_miles": 0.1,
+        "score": 45.0
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 524,
+    "primary_address": "736 N KINGSLEY DR",
+    "property_count": 2,
+    "total_lot_size_sqft": 12258,
+    "avg_assembly_score": 61.56,
+    "total_assessed_value": 1267110,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Hollywood",
+    "nearby_properties": [
+      {
+        "property_id": 840,
+        "address": "5083 W LEMON GROVE AVE",
+        "distance_miles": 0.1,
+        "score": 60.87
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 821,
+    "primary_address": "837 1/2 E 28TH ST",
+    "property_count": 3,
+    "total_lot_size_sqft": 11926,
+    "avg_assembly_score": 60.09,
+    "total_assessed_value": 963000,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Southeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 749,
+        "address": "3441 S PALOMA ST",
+        "distance_miles": 0.1,
+        "score": 57.84
+      },
+      {
+        "property_id": 1038,
+        "address": "5011 S WADSWORTH AVE",
+        "distance_miles": 0.1,
+        "score": 56.32
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 900,
+    "primary_address": "906 W 30TH ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 11504,
+    "avg_assembly_score": 56.89,
+    "total_assessed_value": 3760763,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "San Pedro",
+    "nearby_properties": [
+      {
+        "property_id": 787,
+        "address": "1095 W 22ND ST",
+        "distance_miles": 0.1,
+        "score": 56.0
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 1065,
+    "primary_address": "511 1/2 S FAIRFAX AVE",
+    "property_count": 3,
+    "total_lot_size_sqft": 12599,
+    "avg_assembly_score": 55.5,
+    "total_assessed_value": 2170971,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Wilshire",
+    "nearby_properties": [
+      {
+        "property_id": 616,
+        "address": "441 N LA BREA AVE",
+        "distance_miles": 0.1,
+        "score": 55.7
+      },
+      {
+        "property_id": 1027,
+        "address": "7571 W BEVERLY BLVD",
+        "distance_miles": 0.1,
+        "score": 54.9
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 971,
+    "primary_address": "219 N NEWLAND ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 5987,
+    "avg_assembly_score": 55.14,
+    "total_assessed_value": 442413,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Northeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 664,
+        "address": "215 N BRANCH ST",
+        "distance_miles": 0.1,
+        "score": 54.89
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 828,
+    "primary_address": "6501 S ESTRELLA AVE",
+    "property_count": 2,
+    "total_lot_size_sqft": 11952,
+    "avg_assembly_score": 53.77,
+    "total_assessed_value": 284677,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "South Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 921,
+        "address": "9117 S MENLO AVE",
+        "distance_miles": 0.1,
+        "score": 52.65
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 986,
+    "primary_address": "1147 W 52ND ST",
+    "property_count": 3,
+    "total_lot_size_sqft": 14495,
+    "avg_assembly_score": 52.16,
+    "total_assessed_value": 264065,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "South Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 502,
+        "address": "151 W 52ND PL",
+        "distance_miles": 0.1,
+        "score": 51.68
+      },
+      {
+        "property_id": 579,
+        "address": "829 W 58TH ST",
+        "distance_miles": 0.1,
+        "score": 51.93
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 610,
+    "primary_address": "2525 S SEPULVEDA BLVD",
+    "property_count": 2,
+    "total_lot_size_sqft": 12388,
+    "avg_assembly_score": 51.92,
+    "total_assessed_value": 4473576,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "West Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 1031,
+        "address": "2840 S SEPULVEDA BLVD",
+        "distance_miles": 0.1,
+        "score": 50.27
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 938,
+    "primary_address": "21031 W RUNNYMEDE ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 12645,
+    "avg_assembly_score": 51.65,
+    "total_assessed_value": 932832,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Canoga Park - Winnetka - Woodland Hills - West Hills",
+    "nearby_properties": [
+      {
+        "property_id": 931,
+        "address": "22040 W HART ST",
+        "distance_miles": 0.1,
+        "score": 51.63
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 1041,
+    "primary_address": "7038 N QUARTZ AVE",
+    "property_count": 2,
+    "total_lot_size_sqft": 13143,
+    "avg_assembly_score": 51.62,
+    "total_assessed_value": 670206,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Canoga Park - Winnetka - Woodland Hills - West Hills",
+    "nearby_properties": [
+      {
+        "property_id": 917,
+        "address": "19833 W HEMMINGWAY ST",
+        "distance_miles": 0.1,
+        "score": 49.81
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 1057,
+    "primary_address": "2308 1/2 W BERKELEY AVE",
+    "property_count": 2,
+    "total_lot_size_sqft": 9790,
+    "avg_assembly_score": 51.46,
+    "total_assessed_value": 420888,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Silver Lake - Echo Park - Elysian Valley",
+    "nearby_properties": [
+      {
+        "property_id": 1069,
+        "address": "1400 W ALLISON AVE",
+        "distance_miles": 0.1,
+        "score": 46.87
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 559,
+    "primary_address": "3209 W AVE 32",
+    "property_count": 2,
+    "total_lot_size_sqft": 3927,
+    "avg_assembly_score": 51.42,
+    "total_assessed_value": 230091,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Northeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 561,
+        "address": "3000 W VALLE VISTA DR",
+        "distance_miles": 0.1,
+        "score": 46.41
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 965,
+    "primary_address": "14144 W OSBORNE ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 11986,
+    "avg_assembly_score": 51.39,
+    "total_assessed_value": 832890,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Mission Hills - Panorama City - North Hills",
+    "nearby_properties": [
+      {
+        "property_id": 955,
+        "address": "14131 W LANARK ST",
+        "distance_miles": 0.1,
+        "score": 51.0
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 576,
+    "primary_address": "402 W 95TH ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 11175,
+    "avg_assembly_score": 49.94,
+    "total_assessed_value": 482674,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "South Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 895,
+        "address": "140 E 76TH PL",
+        "distance_miles": 0.1,
+        "score": 49.33
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 989,
+    "primary_address": "1143 S MIRASOL ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 9796,
+    "avg_assembly_score": 49.54,
+    "total_assessed_value": 68119,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Boyle Heights",
+    "nearby_properties": [
+      {
+        "property_id": 893,
+        "address": "1226 S LOS PALOS ST",
+        "distance_miles": 0.1,
+        "score": 45.8
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 969,
+    "primary_address": "1951 W 82ND ST",
+    "property_count": 3,
+    "total_lot_size_sqft": 14676,
+    "avg_assembly_score": 49.24,
+    "total_assessed_value": 750645,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "South Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 512,
+        "address": "1636 W 66TH ST",
+        "distance_miles": 0.1,
+        "score": 47.54
+      },
+      {
+        "property_id": 1061,
+        "address": "1546 W 69TH ST",
+        "distance_miles": 0.1,
+        "score": 49.1
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 727,
+    "primary_address": "949 E 103RD PL",
+    "property_count": 2,
+    "total_lot_size_sqft": 9823,
+    "avg_assembly_score": 48.82,
+    "total_assessed_value": 675460,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Southeast Los Angeles",
+    "nearby_properties": [
+      {
+        "property_id": 624,
+        "address": "939 E 93RD ST",
+        "distance_miles": 0.1,
+        "score": 48.4
+      }
+    ]
+  },
+  {
+    "assembly_potential": "Low",
+    "primary_property_id": 794,
+    "primary_address": "1214 E ROBIDOUX ST",
+    "property_count": 2,
+    "total_lot_size_sqft": 11777,
+    "avg_assembly_score": 48.71,
+    "total_assessed_value": 472867,
+    "same_street": false,
+    "zoning_consistency": true,
+    "community_plan_area": "Wilmington - Harbor City",
+    "nearby_properties": [
+      {
+        "property_id": 675,
+        "address": "1030 N WATSON AVE",
+        "distance_miles": 0.1,
+        "score": 48.52
+      }
+    ]
+  }
+]
